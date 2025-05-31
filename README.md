@@ -32,7 +32,9 @@ VirtualZoo/
 ├── Bird.java
 ├── ZooManager.java
 ├── ZooApp.java
-└── animals.ser
+├── tiger.txt
+├── dolphin.txt
+└── penguin.txt
 ```
 
 ## 📌 How to Run
